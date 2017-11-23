@@ -48,3 +48,16 @@
 .footer-height{
     height:50px;
 }
+
+.layout1{
+    height:200px;
+    margin:20px 30px;
+}
+.layout2{
+    height:350px;
+    margin:0px 33px 0px 30px;
+}
+.layout3{
+    height:350px;
+    margin:0px 30px 0px 33px;
+}
